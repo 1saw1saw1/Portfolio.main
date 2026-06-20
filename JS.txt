@@ -1,0 +1,3 @@
+технологии веб-программирования:
+ HTML5, CSS3, язык JavaScript, платформу Node.js, а также различные фреймворки - jQuery, Angular, React, Vue.js, Ext JS
+
